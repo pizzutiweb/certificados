@@ -66,7 +66,7 @@ Bem-vindo(a)! Aqui você encontra uma lista dos principais certificados que conq
 - **SAPTEC_23 Fundamentos de tecnologia do SAP S/4HANA e SAP Business Suite**  
   _SAP_  
   Concluído em: 05/2023  
-  📄[Certificado](URL_do_link)
+  📄[Certificado](https://github.com/pizzutiweb/certificados/blob/main/6%20-%20ZLSO_PWB_CERTIFICATE_BRAZIL_SAPTEC_08.05.23_a_12.05.23.PDF)
 
 - **ACT100_21  - SAP Activate Methodology**  
   _SAP_  
